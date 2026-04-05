@@ -2,7 +2,8 @@ Hello!
 
 I'm glad you found my github, check out my website if you're interested :)
 
-seanbelavin.ca
+[seanbelavin.ca
+](https://seanbelavin.ca/)
 
 Best,
 Sean
